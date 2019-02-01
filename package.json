@@ -1,0 +1,19 @@
+{
+  "name": "core_branding_favicons",
+  "version": "1.0.0",
+  "description": "core_branding_favicons",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "travis": "node publish.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-ui/core_branding_favicons.git"
+  },
+  "contributors": [
+    {
+      "name": "Jasper Van Proeyen",
+      "email": "jasper.vanproeyen@digipolis.be"
+    },
+  ]
+}
